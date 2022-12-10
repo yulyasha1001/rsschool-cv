@@ -49,5 +49,8 @@ JS, CSS, HTML, Git video courses on YouTube.
 
 # Language:
 
+Russian
+
 English level - A2
+
 
